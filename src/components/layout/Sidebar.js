@@ -10,7 +10,7 @@ export default function Sidebar() {
   const links = [
     { name: 'Dashboard', href: '/', icon: LayoutDashboard },
     { name: 'Models', href: '/models', icon: Cuboid },
-    { name: 'Training', href: '/training', icon: GraduationCap },
+    { name: 'Training', href: '/setup', icon: GraduationCap },
     { name: 'Deploy', href: '/deploy', icon: Rocket },
   ];
 
